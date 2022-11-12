@@ -1,12 +1,17 @@
 # multi-v2ray
 V2ray/Xray - Multi-user management script, wizard-style management [add|delete|modify] transmission protocol
+
+[English version README](README_EN.md)
+
+## [中文](README.md)  
+
+
 ![](https://img.shields.io/pypi/v/v2ray-util.svg) 
 [![Downloads](https://pepy.tech/badge/v2ray-util)](https://pepy.tech/project/v2ray-util)
 [![Downloads](https://pepy.tech/badge/v2ray-util/month)](https://pepy.tech/project/v2ray-util)
 ![](https://img.shields.io/docker/pulls/jrohy/v2ray.svg)
 ![](https://img.shields.io/github/license/Jrohy/multi-v2ray.svg)
 
-## [中文](README.md)  [English](README_EN.md)
 
 ## 特色
 - [x] 支持Xray管理, v2ray和xray相互独立, 不同命令(v2ray/xray)进入不同的core管理
