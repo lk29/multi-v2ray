@@ -1,5 +1,5 @@
 # multi-v2ray
-V2ray/Xray多用户管理脚本，向导式管理[新增|删除|修改]传输协议  
+V2ray/Xray - Multi-user management script, wizard-style management [add|delete|modify] transmission protocol
 ![](https://img.shields.io/pypi/v/v2ray-util.svg) 
 [![Downloads](https://pepy.tech/badge/v2ray-util)](https://pepy.tech/project/v2ray-util)
 [![Downloads](https://pepy.tech/badge/v2ray-util/month)](https://pepy.tech/project/v2ray-util)
